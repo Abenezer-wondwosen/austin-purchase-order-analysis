@@ -38,6 +38,13 @@ The dataset contains City of Austin purchase-order information including:
 After cleaning, the analysis contains **320,304 purchase records**.
 
 > **Note:** The raw and cleaned CSV files are not stored in this repository because of GitHub file-size limitations. The analysis notebook documents the data preparation and cleaning process.
+### Data Source
+
+The original dataset is publicly available through the City of Austin Open Data Portal:
+
+[Purchase Order Quantity Price detail for Commodity/Goods procurements](https://data.austintexas.gov/w/3ebq-e9iz/7r79-5ncn)
+
+The full raw and cleaned CSV files are not included in this repository because of GitHub file-size limitations. The original data can be downloaded directly from the City of Austin Open Data Portal, and the notebook documents the cleaning and analysis workflow.
 
 ## Data Cleaning and Preparation
 
